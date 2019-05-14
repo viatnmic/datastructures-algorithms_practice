@@ -1,0 +1,2 @@
+# Sample program
+This is the first sample python program made as part of Data Structtures and Algorithms in Python ( by MICHAEL T.GOODRICH, ROBERTO TAMASSIA, MICHAEL H.GOLDWASSER) , possibly the greatest python book I've ever read.
